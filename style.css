@@ -1,0 +1,7 @@
+input.form-control, button.btn.btn-success {
+    border-radius: 0;
+}
+
+.container .row{
+    height: 80vh;
+}
